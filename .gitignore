@@ -36,8 +36,6 @@ build/
 # Environment Variables / Secrets
 # ============================================
 
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -93,7 +91,6 @@ Desktop.ini
 # Editor / IDE
 # ============================================
 
-.vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json
 
@@ -142,3 +139,4 @@ Desktop.ini
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+config.bat
